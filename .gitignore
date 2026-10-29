@@ -184,3 +184,9 @@ cython_debug/
 __pycache__/
 .ipynb_checkpoints/
 .pytest_cache/
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
